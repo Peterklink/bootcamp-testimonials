@@ -108,6 +108,7 @@ span{
   }
   .main{
     grid-template-rows: 100vh;
+    padding-top: 0;
 
   }
   .btnPic-box{
