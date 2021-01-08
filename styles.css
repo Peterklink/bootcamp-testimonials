@@ -1,5 +1,4 @@
 body{
-  height:100vh;
   margin:0;
   font-family: "Inter";
   font-size: 16px;
@@ -8,7 +7,6 @@ body{
   background-size:contain;
   background-position:bottom;
   background-repeat: no-repeat;
-  overflow:hidden;
 }
 .main{
   padding-top: 10vh;
